@@ -39,3 +39,7 @@ A central repository that aggregates and links to my various personal projects.
 - **[Investment Platform](https://github.com/Tyrael122/investment-plataform)**  
   A microservices-based investment platform for tracking trades, fetching quotes, and aggregating statistics.  
   `microservices` `kafka` `redis` `nginx` `spring` `docker-compose` `finance` `trading`
+
+- **[Netflix Clone (In Development)](https://github.com/Tyrael122/netflix)**  
+  A movie discovery platform that uses data from TMDB API, featuring user reviews and comments functionality.  
+  `angular` `frontend` `movie-database` `in-development`
