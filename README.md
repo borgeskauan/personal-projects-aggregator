@@ -43,3 +43,13 @@ A central repository that aggregates and links to my various personal projects.
 - **[Netflix Clone (In Development)](https://github.com/Tyrael122/netflix)**  
   A movie discovery platform that uses data from TMDB API, featuring user reviews and comments functionality.  
   `angular` `frontend` `movie-database` `in-development`
+
+#### WhatsApp Websockets (In development)
+WhatsApp clone featuring real-time communication using WebSockets
+- **[Frontend](https://github.com/Tyrael122/whatsapp-websockets-2)**  
+  React + NextJS frontend of the WhatsApp project.  
+  `frontend` `react` `nextjs` `websockets` `in-development`
+
+- **[Backend](https://github.com/Tyrael122/whatsapp-backend)**  
+  Backend service for WhatsApp clone using ExpressJS and WebSockets.  
+  `backend` `express` `websockets` `nodejs` `in-development`
