@@ -35,3 +35,7 @@ A central repository that aggregates and links to my various personal projects.
 - **[Stock Microservices](https://github.com/Tyrael122/stock-microservices)**  
   A simple microservices demo in Kubernetes. Includes RabbitMQ for message brokering.  
   `microservices` `kubernetes` `rabbitmq` `finance`
+
+- **[Investment Platform](https://github.com/Tyrael122/teste-tecnico-pratica)**  
+  A microservices-based investment platform for tracking trades, fetching quotes, and aggregating statistics.  
+  `microservices` `kafka` `redis` `nginx` `spring` `docker-compose` `finance` `trading`
