@@ -40,13 +40,13 @@ A central repository that aggregates and links to my various personal projects.
   A microservices-based investment platform for tracking trades, fetching quotes, and aggregating statistics.  
   `microservices` `kafka` `redis` `nginx` `springboot` `docker-compose` `finance` `trading` `springcloud` `infra-as-code`
 
-- **Netflix Clone (In Development)**
+- **Netflix Clone**
   - **[Frontend](https://github.com/Tyrael122/netflix-frontend)**  
     A movie discovery platform UI built with Angular that lets users browse movies, create playlists, write reviews, and manage his subscription.
-    `angular` `frontend` `movie-database` `in-development` `fullstack`
+    `angular` `frontend` `movie-database` `fullstack`
   - **[Backend](https://github.com/Tyrael122/netflix-backend)**  
 	Spring-based backend supporting the Netflix clone, consuming from TMDB API.
-	`springboot` `backend` `movie` `tmdb` `in-development` `fullstack`
+	`springboot` `backend` `movie` `tmdb` `fullstack`
 
 - **WhatsApp Websockets (In development)**
   WhatsApp clone featuring real-time communication using WebSockets
