@@ -41,7 +41,7 @@ A central repository that aggregates and links to my various personal projects.
   `microservices` `kafka` `redis` `nginx` `springboot` `docker-compose` `finance` `trading` `springcloud` `infra-as-code`
 
 - **Netflix Clone (In Development)**
-  - **[Frontend](https://github.com/Tyrael122/netflix)**  
+  - **[Frontend](https://github.com/Tyrael122/netflix-frontend)**  
     A movie discovery platform UI built with Angular that lets users browse movies, create playlists, write reviews, and manage his subscription.
     `angular` `frontend` `movie-database` `in-development` `fullstack`
   - **[Backend](https://github.com/Tyrael122/netflix-backend)**  
