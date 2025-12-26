@@ -40,6 +40,8 @@ A central repository that aggregates and links to my various personal projects.
   A microservices-based investment platform for tracking trades, fetching quotes, and aggregating statistics.  
   `microservices` `kafka` `redis` `nginx` `springboot` `docker-compose` `finance` `trading` `springcloud` `infra-as-code`
 
+- **[Valora](https://github.com/borgeskauan/valora) (Finished)**
+
 - **Netflix Clone**
   - **[Frontend](https://github.com/Tyrael122/netflix-frontend)**  
     A movie discovery platform UI built with Angular that lets users browse movies, create playlists, write reviews, and manage his subscription.
