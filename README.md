@@ -41,7 +41,7 @@ A central repository that aggregates and links to my various personal projects.
   `microservices` `kafka` `redis` `nginx` `springboot` `docker-compose` `finance` `trading` `springcloud` `infra-as-code`
 
 - **[Valora](https://github.com/borgeskauan/valora) (Finished)**
-- **PIX clone (In development)**
+- **[PIX clone](https://github.com/borgeskauan/instant-payment-system) (In development)**
 
 - **Netflix Clone**
   - **[Frontend](https://github.com/Tyrael122/netflix-frontend)**  
