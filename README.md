@@ -43,6 +43,10 @@ A central repository that aggregates and links to my various personal projects.
 - **[Valora](https://github.com/borgeskauan/valora) (Finished)**
 - **[PIX clone](https://github.com/borgeskauan/instant-payment-system) (Finished)**
 
+- **[SupportAI](https://github.com/borgeskauan/SupportAI)**  
+  A local prototype that groups resolved support cases and drafts FAQs for review alongside the source cases. Includes a prepared demo for editing, approving, and rejecting drafts.  
+  `python` `fastapi` `angular` `gemini` `fullstack`
+
 - **Netflix Clone**
   - **[Frontend](https://github.com/borgeskauan/netflix-frontend)**  
     A movie discovery platform UI built with Angular that lets users browse movies, create playlists, write reviews, and manage his subscription.
